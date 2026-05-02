@@ -1,2 +1,2 @@
 # yolo-test
-Getting my YOLO badge!
+Getting my YOLO badge
